@@ -9,6 +9,8 @@ phillipandanna.com
 3. `$ gulp` - compile sass to css, minify js, etc.
 4. Deploy via `$ firebase deploy --only hosting`
 
+Sometimes you have to open dev console, right click refresh icon, and do a "empty cache and hard reload" to get the changes to display
+
 # Documentation
 Hosting is done through google domains.
 
