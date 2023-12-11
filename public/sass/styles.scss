@@ -252,7 +252,7 @@ Hero
 ========================================================================== */
 .hero {
   min-height: 750px;
-  background: url('../img/hero-min.jpeg') center center;
+  background: url('../img/hero-min2.jpeg') center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -329,6 +329,7 @@ header {
 
       a {
         color: $txt-light;
+        font-weight: bolder;
         padding-right: 25px;
 
         &:hover {
@@ -974,4 +975,12 @@ FAQ
 }
 .faq-accordian .card .card-body p:last-child {
     margin-bottom: 0;
+}
+
+
+
+
+// custom
+.list-spacing {
+  padding-bottom: 1rem;
 }
