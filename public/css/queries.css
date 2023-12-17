@@ -360,3 +360,11 @@
         padding-top: 40%;
     }
 }
+
+@media screen and (max-width: 640px) {
+
+    .getting-there {
+        padding-top: 10%
+    }
+
+}
