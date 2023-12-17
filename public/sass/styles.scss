@@ -259,11 +259,6 @@ Hero
   background-size: cover;
   position: relative;
 
-  /*.rsvp-btn {
-    position: absolute;
-    bottom: 100px;
-    left: 50%;
-  }*/
   .down-arrow a {
     color: $txt-light;
   }
@@ -277,12 +272,13 @@ Hero
     font-weight: 300;
     margin-bottom: 80px;
   }
+  
   .hero-content {
-    padding-top: 7%;
+    //keep here because of queries. 
   }
+
   .hero-content img {
     width: 55%;
-    margin-bottom: 12%;
   }
 }
 .navigation {
